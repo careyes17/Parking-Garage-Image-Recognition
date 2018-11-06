@@ -1,7 +1,9 @@
 # Smart-Security-Camera
 IoT Raspberry Pi security camera running open-cv for object detection. The camera will send an email with an image of any objects it detects. It also runs a server that provides a live video stream over the internet.
 
-**This project has added car detection capabilities, alongside an in-frame counter, SQL implementation, and connection capabilities to a remote database. This is a part of a project that will allow users to check the parking status of their destination before arriving through an app, and be able to determine which row of the parking lot is most suitable to park in.**
+**This project has added car detection capabilities, alongside an in-frame counter, SQL implementation, and connection capabilities to a remote database. This is a part of an android application project that will allow users to check the parking status of their destination before arriving. This app will be able to determine which row of the parking lot is most suitable to park in.**
+
+**The device that is being used to run this program is a Raspberry Pi 0 W with a Raspberry Pi camera module.**
 
 ## Setup
 
